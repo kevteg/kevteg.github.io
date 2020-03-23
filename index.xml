@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hey, I&#39;m Kevin</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Hey, I&#39;m Kevin</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keeev.in/index.xml" rel="self" type="application/rss+xml" />
     
@@ -28,8 +28,8 @@
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://keeev.in/about/</guid>
-      <description>I&amp;rsquo;m Kevin. I&amp;rsquo;m a software developer and a CS engineering student, I love building software and learning cool new stuff in the way. My favorite programming languages and technologies are Python 🐍, C, C++, Go 🐹, Docker 🐳, Linux 🐧 and Javascript too (usually).
-This blog is a playground for my ideas/thoughts/projects, I think writing things down is a great way to learn 🚀. I am a big fan of science 🔭, love learning foreign languajes and I think re-inventing the wheel is great sometimes 🔧.</description>
+      <description>I&amp;rsquo;m Kevin. I&amp;rsquo;m a software engineer who loves building stuff and learning cool things in the way. My favorite programming languages and technologies are Python 🐍, C, C++, Go 🐹, Docker 🐳, Linux 🐧 and sometimes Javascript.
+This blog is a playground for my ideas/thoughts/projects, I think writing things down is a great way to learn. I am a big fan of science 🔭, love learning foreign languajes and I think re-inventing the wheel is great sometimes 🔧.</description>
     </item>
     
   </channel>
